@@ -1,4 +1,4 @@
-## Heart-Disease-Prediction
+# Heart-Disease-Prediction
 
 
 <h2>->Introduction</h2>
