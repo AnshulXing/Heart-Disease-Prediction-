@@ -6,6 +6,9 @@
 
 World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression.
 
+![heart(2)](https://user-images.githubusercontent.com/86431802/203645689-9010ed5c-cd28-4f0d-ac91-0ccedf415464.jpg)
+
+
 <h2>>Logistic Regression</h2>
 
 Logistic regression is a type of regression analysis in statistics used for prediction of outcome of a categorical dependent variable from a set of predictor or independent variables. In logistic regression the dependent variable is always binary. Logistic regression is mainly used to for prediction and also calculating the probability of success.
