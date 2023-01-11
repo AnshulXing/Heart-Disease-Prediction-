@@ -23,3 +23,17 @@ World Health Organization has estimated 12 million deaths occur worldwide, every
 
 The dataset is publically available on the Kaggle website, and it is from an ongoing ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
 
+
+
+Conclusions:
+- **All attributes selected after the elimination process show Pvalues lower than 5% and thereby suggesting significant role in the Heart disease prediction.**
+
+- **Men seem to be more susceptible to heart disease than women.Increase in Age,number of cigarettes smoked per day and systolic Blood Pressure also show increasing odds of having heart disease.**
+
+- **Total cholesterol shows no significant change in the odds of CHD. This could be due to the presence of 'good cholesterol(HDL) in the total cholesterol reading.Glucose too causes a very negligible change in odds (0.2%)**
+
+- **The model predicted with 0.88 accuracy. The model is more specific than sensitive.**
+
+- **The Area under the ROC curve is 73.5 which is somewhat satisfactory. **
+
+- ** Overall model could be improved with more data.**
