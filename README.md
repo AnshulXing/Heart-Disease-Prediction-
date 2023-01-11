@@ -25,7 +25,11 @@ The dataset is publically available on the Kaggle website, and it is from an ong
 
 
 
-Conclusions:
+
+<h2>>Conclusions:</h2>
+
+
+
 - **All attributes selected after the elimination process show Pvalues lower than 5% and thereby suggesting significant role in the Heart disease prediction.**
 
 - **Men seem to be more susceptible to heart disease than women.Increase in Age,number of cigarettes smoked per day and systolic Blood Pressure also show increasing odds of having heart disease.**
@@ -34,6 +38,6 @@ Conclusions:
 
 - **The model predicted with 0.88 accuracy. The model is more specific than sensitive.**
 
-- **The Area under the ROC curve is 73.5 which is somewhat satisfactory. **
+- **The Area under the ROC curve is 73.5 which is somewhat satisfactory.**
 
-- ** Overall model could be improved with more data.**
+- **Overall model could be improved with more data.**
