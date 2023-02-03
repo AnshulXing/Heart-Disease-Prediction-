@@ -17,6 +17,7 @@ World Health Organization has estimated 12 million deaths occur worldwide, every
 
 
 
+
 <b>Logistic regression</b> is a type of regression analysis in statistics used for prediction of outcome of a categorical dependent variable from a set of predictor or independent variables. In logistic regression, the dependent variable is binary or dichotomous, i.e. it only contains data coded as 1 (TRUE, success, pregnant, etc.) or 0 (FALSE, failure, non-pregnant, etc.). Logistic regression is mainly used to for prediction and also calculating the probability of success.
 
 <h3><i>                                                              logit(p)=b0+b1X1+b2X2+b3X3+...+bkXk                                                 </i></h3>
